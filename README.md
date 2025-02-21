@@ -1,5 +1,5 @@
 # Defect_Model
-
+'''bash
 # Install Environmnet
 echo "conda env create -f env.yml"
 
